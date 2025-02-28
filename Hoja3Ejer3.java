@@ -4,7 +4,7 @@ public class Hoja3Ejer3{
 		Scanner teclado=new Scanner(System.in);
 		int a,b;
 		float solucion;
-		Syste.out.print("Introduzca el primer coeficiente para la equacion ax+b=0: ");
+		System.out.print("Introduzca el primer coeficiente para la equacion ax+b=0: ");
 		a=teclado.nextInt();
 		System.out.print("Introduzca el segundo coeficiente para la equacion ax-b=0: ");
 		b=teclado.nextInt();
